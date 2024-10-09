@@ -31,6 +31,6 @@ public class Responder {
         return keywordResponses.get(keyword);
       }
     }
-    return "Hmm, I'm not sure about that. Could you provide more details?";
+    return "That sounds interesting. Tell me more...";
   }
 }
